@@ -1,5 +1,5 @@
 # cse412a_sp22 Introduction to AI
-- Course projcet of CSE412A: Introduction to Artificial Intelligence (Spring 2022) at Washington University in St. Louis. Instructed by [William Yeoh](https://sites.wustl.edu/wyeoh/).
+- Course projcet of *CSE412A: Introduction to Artificial Intelligence (Spring 2022)* at **Washington University in St. Louis**. Instructed by [William Yeoh](https://sites.wustl.edu/wyeoh/).
 - An artificial intelligence porject related to the classic game Pac-Man based on Python. 
 
 ## Project 1
