@@ -10,5 +10,5 @@ Designed agents for the classic version of Pacman, including ghosts.
 Implemented adversarial search algorithms: minimax, expectimax search and evaluation function design.
 
 ## Project 3
-Implement value iteration and Q-learning. 
+Implement value iteration and Q-learning.  
 Test video of Pacman against enemies in Pacman world, check <https://github.com/Junlin-LONG/cse412a_sp22/blob/main/reinforcement%20learning.mp4>.
