@@ -1,5 +1,6 @@
 # cse412a_sp22 Introduction to AI
-An artificial intelligence porject related to the classic game Pac-Man based on Python
+- Course projcet of CSE412A: Introduction to Artificial Intelligence (Spring 2022) at Washington University in St. Louis. Instructed by [William Yeoh](https://sites.wustl.edu/wyeoh/).
+- An artificial intelligence porject related to the classic game Pac-Man based on Python. 
 
 ## Project 1
 The Pacman agent will find paths through his maze world, both to reach a particular location and to collect food efficiently. 
